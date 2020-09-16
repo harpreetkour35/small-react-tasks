@@ -1,0 +1,24 @@
+.container {
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .flex-box-container {
+    border: 1px solid black;
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-self: center;
+  } 
+
+  h1 {
+    width: 100px;
+    height: 100px;
+  }
+
+
